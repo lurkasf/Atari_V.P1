@@ -1,7 +1,7 @@
 # Atari_V.P1
 ## Programadores: 
-   #1-Lucas Ferrari de Sena e Borges  git:lurkasf
-   #2-Lucas da Rocha Silva git:#####
+### 1-Lucas Ferrari de Sena e Borges  git:lurkasf
+### 2-Lucas da Rocha Silva git:#####
 
 Jogo estilo Space Invaders que fiz com o outro Lucas
 
