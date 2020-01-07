@@ -7,6 +7,5 @@
    Jogo de Atari em que o usuario pode decidir a velocidade do canhao,
    velocidade da movimentação do player e etc. 
    O jogo acaba quado usuario destruir 50 misseis ou um missil atingir o chao ou o canhao.
-
-###Obs: Esta versão do jogo não utiliza funções ou vetores.
-###Obs2: Apenas para Windows
+### Obs: Esta versão do jogo não utiliza funções ou vetores.
+### Obs2: Apenas para Windows
